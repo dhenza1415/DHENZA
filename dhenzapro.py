@@ -3,11 +3,11 @@
 #SILAHKAN GUNAKAN SC INI DENGAN BIJAK
 #TEAM BOT PROTECT [SK]
 #===================================================================================================
-from LineAPI.linepy import *
-from LineAPI.akad.ttypes import Message
-from LineAPI.akad.ttypes import ContentType as Type
-from LineAPI.akad.ttypes import ChatRoomAnnouncementContents
-from LineAPI.akad.ttypes import ChatRoomAnnouncement
+from Dhenza7.linepy import *
+from Dhenza7.akad.ttypes import Message
+from Dhenza7.akad.ttypes import ContentType as Type
+from Dhenza7.akad.ttypes import ChatRoomAnnouncementContents
+from Dhenza7.akad.ttypes import ChatRoomAnnouncement
 from datetime import datetime, timedelta
 from time import sleep
 from bs4 import BeautifulSoup
@@ -20,28 +20,28 @@ from googletrans import Translator
 #==================================================================================================
 #AKUN SELFBOT+ASIST
 #===================================================================================================
-cl = LINE("EziWRI6yg02f6gmOesQ7.ryGTdQ0xa4vDVgdudJE/XW.qD80h+AADEKd/0Rs6hK1JIPbGDPgpHMtBF766JkdSRE=")
+cl = LINE("")
 cl.log("Auth Token : " + str(cl.authToken)) #SELFBOT
 
-ki = LINE("Ez0yZejOSth3omyBh2D9.k+n9YlUAYfbHu5wP4vHq/q.WW4kXDXy6IFgpd6wc1ZBLWjmTrWaxUXs1NxHJ1lprXc=")
+ki = LINE("")
 ki.log("Auth Token : " + str(ki.authToken)) #ASIST1
 
-kk = LINE("EzqQ9PWiGU7bGoXbGXvc.cL7O15BJz3PwUe+Wo2vK7a.gtKaNqzOHa7zzbBKnLZIcbLYtLZHtyHvSGoUmpko4yE=")
+kk = LINE("")
 kk.log("Auth Token : " + str(kk.authToken)) #ASIST2
 
-kc = LINE("Ez3zc870dXSJGjrEP8N7.kBfVdPNp3W59E4fW983bPW.aeI1OCG7vffB8v+LOt9+aeYUL+gQ4bZmCRMbxy11ZNo=")
+kc = LINE("")
 kc.log("Auth Token : " + str(kc.authToken)) #ASIST3
 
-km = LINE("EzZ6Nc5aJIWandsPeqG2.afYnUG7prkm63hSAgLJRCG.KaDrZMXhZyVwxoScLzsDJKpMv6pHGRiLw5ph804yCYs=")
+km = LINE("")
 km.log("Auth Token : " + str(km.authToken)) #ASIST4
 
-kb = LINE("Ez8dNNtiFGb2AIVya4Ja.6L+GtJLXpMDOZ1AhVfRhQG.UXKeygEo9ClJs0jyAaIE6bcpoKczNdR/Pi1SPQK9lPI=")
+kb = LINE("")
 kb.log("Auth Token : " + str(kb.authToken)) #ASIST5
 
-sw = LINE("EzeBQkm07517amqysHp1.tJhx4qV+KZkrLDqq41Rwqq.qMsYe/f/XYHO2rDzLuXlO0xNdzzmwCTEkeDIvB7ISKU=")
+sw = LINE("")
 sw.log("Auth Token : " + str(sw.authToken)) #ASIST6
 
-dz = LINE("Ez8T6HhfIb2wz2qH3Ro0.+CiloGc16pmEt5ebFRnHSa.EktsI/LKjusk29eUh+M4R60px327y8MsDjf66la66NY=")
+dz = LINE("")
 dz.log("Auth Token : " + str(dz.authToken)) #ASIST7
 #==============================================================================
 #==========================[[TOKEN CHROME]]=====================================
