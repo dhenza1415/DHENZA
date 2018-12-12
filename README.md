@@ -43,6 +43,6 @@ Note : @ Jika ingin instal pke vps tinggal tambah sudo di depan command<br>
 
 source : linepy by https://github.com/dhenza1415<br>
 ## Like dan subscribe chanel youtube :( https://youtu.be/CRqXKcTl6IY)<br>
-## [SUBCRABE NOW](https://www.youtube.com/dhenzapurnama)
+## [SUBCRABE NOW](https://www.youtube.com/channel/UCNLejYy84XyUX8qcDropXMw)
 KLIK
-## [CREATOR](http://line.me/ti/p/~teambotprotect
+## [CREATOR](http://line.me/ti/p/~teambotprotect)
